@@ -1,6 +1,6 @@
-Boas vindas ao meu perfil 
+Boas vindas ao meu perfil 🚙
 
-meu nome e Gean Jose De Souza Pereira 
+meu nome e **Gean Jose De Souza Pereira**
 
 -Estou estudando na dimpina rocha lopes  
 -Estou me dedicando na linguagem javascript
